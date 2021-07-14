@@ -8,7 +8,7 @@ import javax.persistence.criteria.Path;
 import javax.persistence.criteria.Predicate;
 import javax.persistence.criteria.Root;
 
-import keyboard.works.search.model.SearchCriteria;
+import keyboard.works.search.SearchCriteria;
 import lombok.AllArgsConstructor;
 
 @AllArgsConstructor

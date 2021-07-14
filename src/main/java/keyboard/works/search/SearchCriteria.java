@@ -1,4 +1,4 @@
-package keyboard.works.search.model;
+package keyboard.works.search;
 
 import lombok.AllArgsConstructor;
 import lombok.Builder;

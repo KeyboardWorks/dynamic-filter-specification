@@ -9,9 +9,9 @@ import java.util.List;
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
+import keyboard.works.search.SearchCriteria;
+import keyboard.works.search.SearchOperation;
 import keyboard.works.search.annotation.Searchable;
-import keyboard.works.search.model.SearchCriteria;
-import keyboard.works.search.model.SearchOperation;
 import lombok.Getter;
 import lombok.Setter;
 

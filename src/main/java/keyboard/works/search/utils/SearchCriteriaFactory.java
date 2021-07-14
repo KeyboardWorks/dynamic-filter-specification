@@ -5,9 +5,9 @@ import java.util.List;
 import java.util.Optional;
 import java.util.stream.Collectors;
 
+import keyboard.works.search.SearchCriteria;
+import keyboard.works.search.SearchOperation;
 import keyboard.works.search.annotation.Searchable;
-import keyboard.works.search.model.SearchCriteria;
-import keyboard.works.search.model.SearchOperation;
 import lombok.AllArgsConstructor;
 
 @AllArgsConstructor

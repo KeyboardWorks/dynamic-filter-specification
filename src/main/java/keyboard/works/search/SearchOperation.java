@@ -1,4 +1,4 @@
-package keyboard.works.search.model;
+package keyboard.works.search;
 
 public enum SearchOperation {
 
